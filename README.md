@@ -4,7 +4,7 @@
 A Rainmeter skin that heavily based on Omnimo Skin with fixed issues like weather forcasting and music playing album art.
 
 ## Demo
-![Alt Text](https://media.giphy.com/media/fYAcpD0sQgCL7gU87U/source.gif)
+![](https://i.imgur.com/3Y7EkE8.gif)
 
 ## Getting started
 There is few things you need it to get installed before starting the setup, **\*Unfortunately it is only applicable on windows machines\*** 
@@ -14,8 +14,8 @@ _all the files and softwares here are Free and Opensource:_
 2. [Rainmeter](https://www.rainmeter.net) to install the skin.
 
 ## Skin download
-To download the skin click the button [below](https://drive.google.com/uc?id=1KkMgw68UhvZXF4cIIx7rMRDku1IejeWM).
->[IreboS_0.2.rmskin](https://drive.google.com/uc?id=1KkMgw68UhvZXF4cIIx7rMRDku1IejeWM)
+To download the skin click the button [below](https://drive.google.com/uc?id=1efCUoLc8h6LIShVS8Vja6YbFlNJjwLan).
+>[IreboS_0.2.rmskin](https://drive.google.com/uc?id=1efCUoLc8h6LIShVS8Vja6YbFlNJjwLan)
 
 ## How to install
 
