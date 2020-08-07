@@ -13,7 +13,7 @@ X=20
 Y=15
 AntiAlias=1
 Text="General"
-LeftMouseDownAction=[!ActivateConfig "#ROOTCONFIG#\settings" "general.ini"]
+LeftMouseDownAction=[!ActivateConfig "#ROOTCONFIG#\monstercat-visualizer\settings" "general.ini"]
 [MeterMediaPlayer]
 Meter=String
 FontFace=Montserrat Light
@@ -23,7 +23,7 @@ X=20
 Y=5R
 AntiAlias=1
 Text="Media Player"
-LeftMouseDownAction=[!ActivateConfig "#ROOTCONFIG#\settings" "mediaplayer.ini"]
+LeftMouseDownAction=[!ActivateConfig "#ROOTCONFIG#\monstercat-visualizer\settings" "mediaplayer.ini"]
 [MeterVisualizer]
 Meter=String
 FontFace=Montserrat Light
@@ -33,7 +33,7 @@ X=20
 Y=5R
 AntiAlias=1
 Text="Visualizer"
-LeftMouseDownAction=[!ActivateConfig "#ROOTCONFIG#\settings" "visualizer.ini"]
+LeftMouseDownAction=[!ActivateConfig "#ROOTCONFIG#\monstercat-visualizer\settings" "visualizer.ini"]
 [MeterStyling]
 Meter=String
 FontFace=Montserrat Light
@@ -43,7 +43,7 @@ X=20
 Y=5R
 AntiAlias=1
 Text="Styling"
-LeftMouseDownAction=[!ActivateConfig "#ROOTCONFIG#\settings" "styling.ini"]
+LeftMouseDownAction=[!ActivateConfig "#ROOTCONFIG#\monstercat-visualizer\settings" "styling.ini"]
 [MeterAbout]
 Meter=String
 FontFace=Montserrat Light
