@@ -4,7 +4,7 @@
 A Rainmeter skin that heavily based on Omnimo Skin with fixed issues like weather forcasting and music playing album art.
 
 ## Demo
-![Demo video](https://media.giphy.com/media/llD53IKnpeLj2uKsii/giphy.gif)
+![Alt Text](https://media.giphy.com/media/fYAcpD0sQgCL7gU87U/source.gif)
 
 ## Getting started
 There is few things you need it to get installed before starting the setup, **\*Unfortunately it is only applicable on windows machines\*** 
