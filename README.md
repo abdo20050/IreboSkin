@@ -1,5 +1,10 @@
 # IreboSkin
+![skin img](https://pbs.twimg.com/media/EZ2xxo0XsAYHulZ?format=jpg&name=medium)
+
 A Rainmeter skin that heavily based on Omnimo Skin with fixed issues like weather forcasting and music playing album art.
+
+## Demo
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
 
 ## Getting started
 There is few things you need it to get installed before starting the setup, **\*Unfortunately it is only applicable on windows machines\*** 
