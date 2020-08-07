@@ -4,7 +4,7 @@
 A Rainmeter skin that heavily based on Omnimo Skin with fixed issues like weather forcasting and music playing album art.
 
 ## Demo
-![](https://i.imgur.com/3Y7EkE8.gif)
+[![ireboS Demo](https://user-images.githubusercontent.com/40543028/89670989-d1154380-d8ea-11ea-9c54-d1ffaa538755.gif)](https://twitter.com/Abdo_20025/status/1269373218072276994?s=20)
 
 ## Getting started
 There is few things you need it to get installed before starting the setup, **\*Unfortunately it is only applicable on windows machines\*** 
@@ -18,6 +18,9 @@ To download the skin click the button [below](https://drive.google.com/uc?id=1ef
 >[IreboS_0.2.rmskin](https://drive.google.com/uc?id=1efCUoLc8h6LIShVS8Vja6YbFlNJjwLan)
 
 ## How to install
+
+## How to fix music visualization
+To fix it you'll need to follow that [link](https://github.com/marcopixel/Monstercat-Visualizer/wiki/WebNowPlaying-Spotify) *(It's easy just step by step porcedure)*
 
 ## To contribute 
 There is vary ways to contribute to this project whether [financially](https://paypal.me/abdo20050?locale.x=en_US) or by contributing in the code and adding **new features** by [reporting the issuies](https://github.com/abdo20050/IreboSkin/issues) ,or forking and make a [Pull](https://github.com/abdo20050/IreboSkin/pulls) request ~~and nerdy stuff~~.
