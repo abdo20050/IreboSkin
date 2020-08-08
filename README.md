@@ -42,6 +42,30 @@ To fix it you'll need to follow that [link](https://github.com/marcopixel/Monste
 
 And more !!
 
+## Bugs that U might counter!!
+yes there some bugs in the Skin that you have to consider
+
+1. Whether panel is blank:
+   * That is happening because of two reasons:
+     1. There is not internet connection.
+     2. It's depending on what called HTTPS request so it sometimes happen to reject that request whether for overwhelming requests or anything else so to solve is pretty simple , just exit Rainmeter and wait few seconds and reopen it :)
+2. I'm Facing so much Lagging and crashing:
+   * Unfortunately my skin isn't the friendliest system resources *yet*, so here is some tips for you for smooth run:
+      1. Turn "use hardware acceleration" from rainmeter sittings and restart it.
+      2. If you're doing heavy stuff like gaming or rendering so use GameMode from rainmeter which is a quick way to disable the skin.
+      3. It's optional for low specs PCs to unload the visiualisation bars or waves because it's the most consuming components in the skin. *(right click -> unload skin)*
+      4. Layout(1) is more system friendly than layout(2).
+3. Cover Art stop displaying:
+   * It wouldn't be a common problem but it could happen , so here how to solve it easily:
+      1. Make sure that your spotify is the spotify software and not the app from win10 store.
+      2. Open the PowerShell and type 
+         >spicetify backup apply
+4. Not all components resize when changing the Dpi:
+   * Actually that is a problem still hasn't been solved *yet*, so just keep it on the default Dpi.
+    
+## TODO list
+TBC
+
 ## To contribute 
 There is vary ways to contribute to this project whether [financially](https://paypal.me/abdo20050?locale.x=en_US) or by contributing in the code and adding **new features** by [reporting the issuies](https://github.com/abdo20050/IreboSkin/issues) ,or forking and make a [Pull](https://github.com/abdo20050/IreboSkin/pulls) request ~~and nerdy stuff~~.
 
