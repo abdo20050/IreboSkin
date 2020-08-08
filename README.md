@@ -32,13 +32,13 @@ To fix it you'll need to follow that [link](https://github.com/marcopixel/Monste
 **\*These features what is execlusive in my skin and isn't in current [Omnimo Skin](https://github.com/fediaFedia/Omnimo)\***
 | text  | image |
 | ------------- | ------------- |
-| Working Weather panels  | Content Cell  |
-| Enhanced news clock panel  | Content Cell  |
-| Sperated options for 24/12h and C/F Temp unit | |
-| Intaractive temp unit indicator | |
-| Enhanced music player THAT ACTUALLY DISPLAYS COVER ART | |
-| Decreasing and Increasing the Volume | |
-| Decreasing and Increasing the Bars hight | |
+| Working Weather panels  | <img src="https://i.imgur.com/2GvRRUU.png" width="200"> |
+| Enhanced news clock panel  | <img src="https://i.imgur.com/h4tojjQ.gif" width="200">  |
+| Sperated options for 24/12h and C/F Temp unit | <img src="https://i.imgur.com/Ejkb4iU.png"> |
+| Intaractive temp unit indicator | <img src="https://i.imgur.com/neHRTts.gif"> |
+| Enhanced music player THAT ACTUALLY DISPLAYS COVER ART | <img src="https://i.imgur.com/8HSthxl.png" height="300"> |
+| Decreasing and Increasing the Volume | <img src="https://i.imgur.com/i7nmL1A.gif" height="300">  |
+| Decreasing and Increasing the Bars height | <img src="https://i.imgur.com/ecwJc1r.gif" width="200"> |
 
 And more !!
 
