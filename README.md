@@ -1,7 +1,7 @@
 # IreboSkin
 ![skin img](https://pbs.twimg.com/media/EZ2xxo0XsAYHulZ?format=jpg&name=medium)
 
-A Rainmeter skin that heavily based on Omnimo Skin with fixed issues like weather forcasting and music playing album art.
+### Is a Rainmeter skin that heavily based on [Omnimo Skin](https://github.com/fediaFedia/Omnimo) with fixed issues like weather forcasting and music playing album art.
 
 ## Demo
 [![ireboS Demo](https://user-images.githubusercontent.com/40543028/89670989-d1154380-d8ea-11ea-9c54-d1ffaa538755.gif)](https://twitter.com/Abdo_20025/status/1269373218072276994?s=20)
@@ -20,8 +20,27 @@ To download the skin click the button [below](https://drive.google.com/uc?id=1ef
 
 ## How to install
 
+* Step 0: Your Desktop should be completely **Empty** *(Advise you to use win start menue for software shortcuts or use any desktop organiser)* and then Change your Wallpaper to **Solid Black** *(you'll know why in comming steps)*.
+* Step 1: Open lively and go to TYPE tab then choose "Lively .zip" then browse the wallpaper you downloaded ealier then setup it from LIBRARY tab. The wallpaper will be applied  but it has no control on your taskbar or window frame like native win wallpaper so to control them change the the win wallpaper solid color.  
+* Step 2: Go to where you downloaded the IreboS and double click to install it and brawallah here it is.
+* Extra Step: To fix the music visualisation follow the section below.
+
 ## How to fix music visualization
-To fix it you'll need to follow that [link](https://github.com/marcopixel/Monstercat-Visualizer/wiki/WebNowPlaying-Spotify) *(It's easy just step by step porcedure)*
+To fix it you'll need to follow that [link](https://github.com/marcopixel/Monstercat-Visualizer/wiki/WebNowPlaying-Spotify). *(It's easy just step by step porcedures)*
+
+## Features
+**\*These features what is execlusive in my skin and isn't in current [Omnimo Skin](https://github.com/fediaFedia/Omnimo)\***
+| text  | image |
+| ------------- | ------------- |
+| Working Weather panels  | Content Cell  |
+| Enhanced news clock panel  | Content Cell  |
+| Sperated options for 24/12h and C/F Temp unit | |
+| Intaractive temp unit indicator | |
+| Enhanced music player THAT ACTUALLY DISPLAYS COVER ART | |
+| Decreasing and Increasing the Volume | |
+| Decreasing and Increasing the Bars hight | |
+
+And more !!
 
 ## To contribute 
 There is vary ways to contribute to this project whether [financially](https://paypal.me/abdo20050?locale.x=en_US) or by contributing in the code and adding **new features** by [reporting the issuies](https://github.com/abdo20050/IreboSkin/issues) ,or forking and make a [Pull](https://github.com/abdo20050/IreboSkin/pulls) request ~~and nerdy stuff~~.
