@@ -15,8 +15,10 @@ _all the files and softwares here are Free and Opensource:_
 3. [spotify](https://www.spotify.com/download/windows/), **It's important to download the desktop version not the Win10 store App to get music visualisation work correctly**
 
 ## Skin download
-To download the skin click the button [below](https://drive.google.com/uc?id=1efCUoLc8h6LIShVS8Vja6YbFlNJjwLan).
->[IreboS_0.3.rmskin](https://drive.google.com/uc?id=1JndJSj15UlEH7corqQ_t62LMYneJ0ogn)
+To download the skin click the button [below][Dlink].
+>[IreboS_0.3.rmskin][Dlink]
+
+[Dlink]: https://drive.google.com/uc?id=17DMyRcClAdDCaJaKidVXfjBv7QDXsQiD
 
 ## How to install
 
@@ -28,7 +30,8 @@ To download the skin click the button [below](https://drive.google.com/uc?id=1ef
 * Go to weahter panal and right click and choose "change weather location" and follow text file then refresh the skin
 
 ## How to fix music visualization
-To fix it you'll need to follow that [link](https://github.com/marcopixel/Monstercat-Visualizer/wiki/WebNowPlaying-Spotify). *(It's easy just step by step porcedures)*
+To fix it you'll need to follow that [link](https://github.com/marcopixel/Monstercat-Visualizer/wiki/WebNowPlaying-Spotify). *(It's easy just step by step porcedures)*.  
+To make it works with browser install [WebNowPlaying](https://github.com/tjhrulz/WebNowPlaying) extension on your browser with causion because it's kinda buggy and old.
 
 ## Features
 **\*These features what is execlusive in my skin and isn't in current [Omnimo Skin](https://github.com/fediaFedia/Omnimo)\***
@@ -76,3 +79,9 @@ TBA
 ## To contribute 
 There is vary ways to contribute to this project whether [financially](https://paypal.me/abdo20050?locale.x=en_US) or by contributing in the code and adding **new features** by [reporting the issuies](https://github.com/abdo20050/IreboSkin/issues) ,or forking and make a [Pull](https://github.com/abdo20050/IreboSkin/pulls) request ~~and nerdy stuff~~.
 
+## Credits
+* Absolute Thanx to [Omnimo](https://github.com/fediaFedia/Omnimo)/[fediaFedia](https://github.com/fediaFedia) for making like that amazing skin possible.
+* [Lively Wallpaper](https://rocksdanister.github.io/lively/)/[Dani John](https://twitter.com/rocksdanister) Who made that amazing FOSS wallpaper engin
+* [monstercat visualiser](https://github.com/marcopixel/Monstercat-Visualizer)/[MarcoPixel](https://github.com/marcopixel) Who made the music visualiser that great
+* [OceanSkin](https://github.com/alatsombath/Ocean)/[alatsombath](https://github.com/alatsombath) thanks for the awesome wavy skin
+* [WebNowPlaying plugin](https://github.com/tjhrulz/WebNowPlaying)/[Tjhrulz](https://github.com/tjhrulz) Made an amazing plugin for getting music info
