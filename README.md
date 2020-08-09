@@ -11,6 +11,8 @@ There is few things you need it to get installed before starting the setup, **\*
 _all the files and softwares here are Free and Opensource:_
 1. [Lively Wallpaper](https://rocksdanister.github.io/lively/) for the live disktop wallpaper
    - [The Wallpaper I used in the demo](https://www.deviantart.com/rocksdanister/art/Landscape-833227357) _(log in required to download)_
+   - [another one of my choises](https://www.deviantart.com/rocksdanister/art/Rain-Customisable-v2-833913001)
+   - [The wallpapers Gallary](https://www.deviantart.com/livelywallpaper/gallery/)
 2. [Rainmeter](https://www.rainmeter.net) to install the skin.
 3. [spotify](https://www.spotify.com/download/windows/), **It's important to download the desktop version not the Win10 store App to get music visualisation work correctly**
 
