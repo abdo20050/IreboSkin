@@ -65,10 +65,13 @@ yes there some bugs in the Skin that you have to consider
 4. Not all components resize when changing the Dpi:
    * Actually that is a problem still hasn't been solved *yet*, so just keep it on the default Dpi.
 4. Some panels or skins doesn't work correctly:
-   * Yeah some skins need to Update so pls consider contributing because it is a hard work :)
-    
+   * Yeah some skins need to Update so pls consider [contributing](https://github.com/abdo20050/IreboSkin/blob/master/README.md#to-contribute) because it is a hard work :)
+
+## ENJOY!!
+You've just scratched the surfuce of the skin with that doc....play with the skin for while and right and middle click stuff ;)  
+and if you faced any issues that didn't mentioned [above](https://github.com/abdo20050/IreboSkin/blob/master/README.md#Bugs-that-U-might-counter!!) just consider report it on [issues report page](https://github.com/abdo20050/IreboSkin/issues)
 ## TODO list
-TBC
+TBA
 
 ## To contribute 
 There is vary ways to contribute to this project whether [financially](https://paypal.me/abdo20050?locale.x=en_US) or by contributing in the code and adding **new features** by [reporting the issuies](https://github.com/abdo20050/IreboSkin/issues) ,or forking and make a [Pull](https://github.com/abdo20050/IreboSkin/pulls) request ~~and nerdy stuff~~.
