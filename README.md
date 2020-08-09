@@ -71,7 +71,11 @@ yes there some bugs in the Skin that you have to consider
    * Actually that is a problem still hasn't been solved *yet*, so just keep it on the default Dpi.
 4. Some panels or skins doesn't work correctly:
    * Yeah some skins need to Update so pls consider [contributing](https://github.com/abdo20050/IreboSkin/blob/master/README.md#to-contribute) because it is a hard work :)
-
+## Fonts
+These are the fonts I use and absolutly you can use your own:
+   * [Lato](https://fonts.google.com/specimen/Lato) for Regular fonts
+   * [Glacial](https://www.fontsquirrel.com/fonts/glacial-indifference) for Bold fonts
+   * [Open Sans Condensed](https://fonts.google.com/specimen/Open+Sans+Condensed) for light fonts
 ## ENJOY!!
 You've just scratched the surfuce of the skin with that doc....play with the skin for while and right and middle click stuff ;)  
 and if you faced any issues that didn't mentioned [above](https://github.com/abdo20050/IreboSkin/blob/master/README.md#Bugs-that-U-might-counter) just consider report it on [issues report page](https://github.com/abdo20050/IreboSkin/issues)
