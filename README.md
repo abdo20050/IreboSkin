@@ -1,5 +1,5 @@
 # IreboSkin
-![skin img](https://pbs.twimg.com/media/EZ2xxo0XsAYHulZ?format=jpg&name=medium)
+![](https://i.imgur.com/PeyxJE3.jpg)
 
 ### Is a Rainmeter skin that heavily based on [Omnimo Skin](https://github.com/fediaFedia/Omnimo) with fixed issues like weather forcasting and music playing album art.
 
