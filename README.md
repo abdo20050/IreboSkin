@@ -16,14 +16,16 @@ _all the files and softwares here are Free and Opensource:_
 
 ## Skin download
 To download the skin click the button [below](https://drive.google.com/uc?id=1efCUoLc8h6LIShVS8Vja6YbFlNJjwLan).
->[IreboS_0.2.rmskin](https://drive.google.com/uc?id=1efCUoLc8h6LIShVS8Vja6YbFlNJjwLan)
+>[IreboS_0.3.rmskin](https://drive.google.com/uc?id=1JndJSj15UlEH7corqQ_t62LMYneJ0ogn)
 
 ## How to install
 
 * Step 0: Your Desktop should be completely **Empty** *(Advise you to use win start menue for software shortcuts or use any desktop organiser)* and then Change your Wallpaper to **Solid Black** *(you'll know why in comming steps)*.
 * Step 1: Open lively and go to TYPE tab then choose "Lively .zip" then browse the wallpaper you downloaded ealier then setup it from LIBRARY tab. The wallpaper will be applied  but it has no control on your taskbar or window frame like native win wallpaper so to control them change the the win wallpaper solid color.  
 * Step 2: Go to where you downloaded the IreboS and double click to install it and brawallah here it is.
-* Extra Step: To fix the music visualisation follow the section below.
+* Extra Steps: To change wheather location and fix the music visualisation follow the sections below.
+## How to change weather location
+* Go to weahter panal and right click and choose "change weather location" and follow text file then refresh the skin
 
 ## How to fix music visualization
 To fix it you'll need to follow that [link](https://github.com/marcopixel/Monstercat-Visualizer/wiki/WebNowPlaying-Spotify). *(It's easy just step by step porcedures)*
@@ -33,7 +35,7 @@ To fix it you'll need to follow that [link](https://github.com/marcopixel/Monste
 | text  | image |
 | ------------- | ------------- |
 | Working Weather panels  | <img src="https://i.imgur.com/2GvRRUU.png" width="200"> |
-| Enhanced news clock panel  | <img src="https://i.imgur.com/h4tojjQ.gif" width="200">  |
+| Enhanced clock-news panel  | <img src="https://i.imgur.com/h4tojjQ.gif" width="200">  |
 | Sperated options for 24/12h and C/F Temp unit | <img src="https://i.imgur.com/Ejkb4iU.png"> |
 | Intaractive temp unit indicator | <img src="https://i.imgur.com/neHRTts.gif"> |
 | Enhanced music player THAT ACTUALLY DISPLAYS COVER ART | <img src="https://i.imgur.com/8HSthxl.png" height="300"> |
@@ -62,6 +64,8 @@ yes there some bugs in the Skin that you have to consider
          >spicetify backup apply
 4. Not all components resize when changing the Dpi:
    * Actually that is a problem still hasn't been solved *yet*, so just keep it on the default Dpi.
+4. Some panels or skins doesn't work correctly:
+   * Yeah some skins need to Update so pls consider contributing because it is a hard work :)
     
 ## TODO list
 TBC
