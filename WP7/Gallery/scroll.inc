@@ -1,4 +1,4 @@
 [Variables]
 ScrollStart=0
-LastCat=cat1
+LastCat=Cat7
 stopscrollingDown=1
