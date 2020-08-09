@@ -69,7 +69,7 @@ yes there some bugs in the Skin that you have to consider
 
 ## ENJOY!!
 You've just scratched the surfuce of the skin with that doc....play with the skin for while and right and middle click stuff ;)  
-and if you faced any issues that didn't mentioned [above](https://github.com/abdo20050/IreboSkin/blob/master/README.md#Bugs-that-U-might-counter!!) just consider report it on [issues report page](https://github.com/abdo20050/IreboSkin/issues)
+and if you faced any issues that didn't mentioned [above](https://github.com/abdo20050/IreboSkin/blob/master/README.md#Bugs-that-U-might-counter) just consider report it on [issues report page](https://github.com/abdo20050/IreboSkin/issues)
 ## TODO list
 TBA
 
