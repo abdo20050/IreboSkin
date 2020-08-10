@@ -4,7 +4,7 @@
 ;e.g: "saudi-arabia/riyadh/riyadh-22725955".... you can see how here: https://i.imgur.com/JwwXetb.png
 ;and put it in the locationCode underneath :)
 
-LocationCode=saudi-arabia/riyadh/riyadh-22725955
+LocationCode=saudi-arabia/riyadh/riyadh-22725984
 
 
 ;I know what you're thinking about but sadly you can't currently change 

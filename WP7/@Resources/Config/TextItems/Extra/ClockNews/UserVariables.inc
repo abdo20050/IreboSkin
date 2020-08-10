@@ -1,5 +1,5 @@
 [Variables]
-RSSMain=http://rss.cnn.com/rss/edition.rss
+RSSMain=http://arabic.cnn.com/rss/cnnarabic_mideast.rss
 ItemSize=400
 DisableNews=
 SliderDirection=0
